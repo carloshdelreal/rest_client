@@ -25,6 +25,7 @@ If you want a copy of this project running on your machine you have to install:
 * gem 3.0
 * Bundler 1.17
 * Rails 5.2
+* rest-client
 
 For the installation follow [The Instalation Guide](https://www.tutorialspoint.com/ruby-on-rails/rails-installation)
 
